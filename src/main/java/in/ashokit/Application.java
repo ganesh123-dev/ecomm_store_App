@@ -25,4 +25,9 @@ public class Application {
 		double price = 123.90;
 	
 	}
+	
+	// JIRA-102
+	public void m2(){
+		// loigc
+	}
 }
